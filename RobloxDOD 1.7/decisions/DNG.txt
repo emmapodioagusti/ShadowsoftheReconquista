@@ -1,0 +1,75 @@
+political_decisions = {
+integrate_kaiganese = {
+		potential = {
+			tag = DNG
+			NOT = {has_country_flag = integrate_kaigans}
+		}
+		allow = {
+			state_n_government = 1
+			KKN = all_core = {
+									OR = {
+										owned_by = THIS
+										owner = {
+										  OR = {
+											in_sphere = THIS
+											vassal_of = THIS
+											}
+										}
+									}
+								}
+		}
+		effect = {
+			set_country_flag = integrate_kaigans
+			add_accepted_culture = kaiganese
+			KKN = {all_core = {add_core = DNG}}
+		}
+	}
+reunite_the_diaspora = {
+	potential = {
+		tag = DNG
+		has_country_flag = integrate_kaigans
+		NOT = {has_country_flag = diaspora_reunited}
+	}
+	allow = {
+		nationalism_n_imperialism = 1
+		YLO = all_core = {
+									OR = {
+										owned_by = THIS
+										owner = {
+										  OR = {
+											in_sphere = THIS
+											vassal_of = THIS
+											}
+										}
+									}
+								}
+		MJN = all_core = {
+									OR = {
+										owned_by = THIS
+										owner = {
+										  OR = {
+											in_sphere = THIS
+											vassal_of = THIS
+											}
+										}
+									}
+								}
+		ZSA = all_core = {
+									OR = {
+										owned_by = THIS
+										owner = {
+										  OR = {
+											in_sphere = THIS
+											vassal_of = THIS
+											}
+										}
+									}
+								}
+		}
+		effect = {
+		set_country_flag = diaspora_reunited
+		YLO = {all_core = {add_core = DNG}}
+		MJN = {all_core = {add_core = DNG}}
+		ZSA = {all_core = {add_core = DNG}}
+		}
+}	

@@ -1,0 +1,19 @@
+army = {
+	name = "First Army of Prussia"
+	location = 695
+	regiment = {
+		name= "1.1st Division"
+		type = artillery
+		home = 695
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = artillery
+		home = 695
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = artillery
+		home = 696
+	}
+}
