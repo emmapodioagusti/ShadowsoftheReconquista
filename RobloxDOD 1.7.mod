@@ -1,5 +1,0 @@
-name = "RobloxDoD 1.7"
-path = "mod/RobloxDoD 1.7"
-user_dir = "RobloxDoD 1.7"
-replace_path = "decisions"
-replace_path = "events"

@@ -1,0 +1,5 @@
+name = "Shadows of the Reconquista 0.1"
+path = "mod/ShadowsoftheReconquista"
+user_dir = "ShadowsoftheReconquista"
+replace_path = "decisions"
+replace_path = "events"
