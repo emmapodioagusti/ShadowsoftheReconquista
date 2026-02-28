@@ -1,6 +1,5 @@
-owner = BRG
-controller = BRG
-add_core = BRG
+owner = NET
+controller = NET
 add_core = NET
 trade_goods = fish
 life_rating = 35

@@ -6,7 +6,10 @@ REB 	= 	"countries/rebels.txt"
 
 ## Western Europe
 # ARN = Aragon
+# FRA = France
 # OCC = Occitania
+ACQ		= "countries/Acquitaine.txt"
+# NET = Netherlands
 
 ## North Africa
 # MOR = Maghreb/Morocco
@@ -21,7 +24,7 @@ REB 	= 	"countries/rebels.txt"
 # RHI = Rhenish Conf.
 # HAN = Hannover
 # SAX = Saxony
-# 
+# PRU = Prussia
 #
 # GER = Germany
 

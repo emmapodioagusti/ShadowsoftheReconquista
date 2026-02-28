@@ -1,6 +1,5 @@
-owner = DUA
-controller = DUA
-add_core = DUA
+owner = OCC
+controller = OCC
 add_core = OCC
 trade_goods = iron
 life_rating = 33

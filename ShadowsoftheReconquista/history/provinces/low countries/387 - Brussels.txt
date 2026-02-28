@@ -1,6 +1,6 @@
-owner = BRG
-controller = BRG
-add_core = BRG
+owner = FRA
+controller = FRA
+add_core = FRA
 add_core = NET
 trade_goods = sulphur
 life_rating = 40

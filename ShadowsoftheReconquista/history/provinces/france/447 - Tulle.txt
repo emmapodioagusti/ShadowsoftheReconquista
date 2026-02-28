@@ -1,7 +1,6 @@
-owner = DUA
-controller = DUA
-add_core = DUA
-add_core = OCC
+owner = ACQ
+controller = ACQ
+add_core = ACQ
 trade_goods = fruit
 life_rating = 33
 
