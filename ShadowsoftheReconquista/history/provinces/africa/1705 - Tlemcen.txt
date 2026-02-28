@@ -1,13 +1,8 @@
-owner = ARN
-controller = ARN
+owner = MOR
+controller = MOR
 add_core = MOR
 trade_goods = iron
 life_rating = 35
 colonial = 2
-1861.1.1 = {
-	owner = FRA
-	controller = FRA
-	colonial = 2
-}
 
 

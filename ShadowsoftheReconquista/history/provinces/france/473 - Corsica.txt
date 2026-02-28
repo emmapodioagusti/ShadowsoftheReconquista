@@ -1,6 +1,6 @@
-owner = ARN
-controller = ARN
-add_core = ARN
+owner = MOR
+controller = MOR
+add_core = MOR
 add_core = SIC
 trade_goods = fish
 life_rating = 35

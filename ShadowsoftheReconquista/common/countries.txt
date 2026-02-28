@@ -2,6 +2,31 @@
 #Do not remove this rebel entry.
 REB 	= 	"countries/rebels.txt"
 
+### TAGS USED FOR SotR
+
+## Western Europe
+# ARN = Aragon
+# OCC = Occitania
+
+## North Africa
+# MOR = Maghreb/Morocco
+
+## Italy
+# PAP = Papacy
+# TUS = Tuscany
+
+## Germany
+# BAV = Bavaria
+# AUS = Austria
+# RHI = Rhenish Conf.
+# HAN = Hannover
+# SAX = Saxony
+# 
+#
+# GER = Germany
+
+### TAGS FROM BASE
+
 #DoD Countries
 DUA		= "countries/Dual Monarchy.txt"
 BRG		= "countries/Burgundy.txt"
@@ -30,7 +55,6 @@ JAP		= "countries/Japan.txt"
 ITA		= "countries/Italy.txt"
 AIT		= "countries/Anti-Italy.txt"
 KUK		= "countries/Austria-Hungary.txt"
-
 
 # Scandinavia
 DEN		= "countries/Denmark.txt"
